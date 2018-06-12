@@ -1,0 +1,19 @@
+{
+  "name": "prettier-plugin-thrift",
+  "version": "0.0.0",
+  "description": "A prettier plugin for Thrift",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "thrift",
+    "prettier"
+  ],
+  "author": "Jordan Gensler <jordangens@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.13.5",
+    "typescript": "^2.9.1"
+  }
+}
