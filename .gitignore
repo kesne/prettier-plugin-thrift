@@ -1,1 +1,4 @@
 node_modules/
+lib/
+# ignore tests for now as they contain internal files
+test/
